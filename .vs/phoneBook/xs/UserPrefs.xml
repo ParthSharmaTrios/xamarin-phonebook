@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C7C38CEB-53DC-4FC5-B9A7-5626E7713DCF}|Default">
+  <MonoDevelop.Ide.ItemProperties.phoneBook PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ACD268E0-889A-4E2D-803D-86CFB386F020" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.phoneBook>
+  <MonoDevelop.Ide.Workbench ActiveDocument="phoneBook/ViewController.cs">
+    <Files>
+      <File FileName="phoneBook/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="phoneBook/Main.storyboard" />
+      <File FileName="phoneBook/LaunchScreen.storyboard" />
+      <File FileName="phoneBook/ContactsTableViewController.cs" Line="7" Column="67" />
+      <File FileName="phoneBook/Contact.cs" Line="8" Column="35" />
+      <File FileName="phoneBook/ViewController.cs" Line="11" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

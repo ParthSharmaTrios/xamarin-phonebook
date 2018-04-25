@@ -1,0 +1,12 @@
+/Users/parthraisharma/Projects/phoneBook/phoneBook/bin/iPhoneSimulator/Debug/phoneBook.exe
+/Users/parthraisharma/Projects/phoneBook/phoneBook/bin/iPhoneSimulator/Debug/phoneBook.pdb
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/phonebook-512.png
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/phoneBook.csproj.CoreCompileInputs.cache
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/phoneBook.exe
+/Users/parthraisharma/Projects/phoneBook/phoneBook/obj/iPhoneSimulator/Debug/phoneBook.pdb
